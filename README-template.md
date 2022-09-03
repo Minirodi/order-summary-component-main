@@ -4,8 +4,8 @@ This is a solution to the [Order summary card challenge on Frontend Mentor](http
 
 
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: (https://minirodi.github.io/order-summary-component-main/)
+- Solution URL:https://github.com/Minirodi/order-summary-component-main/blob/main/README-template.md
+- Live Site URL: https://minirodi.github.io/order-summary-component-main/
 
 ## My process
 
